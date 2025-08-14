@@ -90,7 +90,12 @@ For a given company, the tool can return:
 * **Brief Overview**
 * **Additional Key Facts**
 
-  <img width="826" height="778" alt="image" src="https://github.com/user-attachments/assets/440990f9-37cb-494a-99e6-c1bf5fa45880" />
+Data Retreival for company INFOSYS
+ <img width="826" height="778" alt="image" src="https://github.com/user-attachments/assets/440990f9-37cb-494a-99e6-c1bf5fa45880" />
+
+
+Data Retreival for company AMD
+<img width="805" height="817" alt="image" src="https://github.com/user-attachments/assets/ba1f6408-365b-4544-b995-0df6d2a25e05" />
 
 
 ---
